@@ -1,7 +1,7 @@
 # AuralCanvas - The Apple Music Artwork Fetcher
 
 <p align="center">
-  <img src="docs/note.png" width="100" height="100" alt="AuralCanvas Logo">
+  <img src="docs/note.png" width="1067" height="1067" alt="AuralCanvas Logo">
 </p>
 
 <p align="center">
